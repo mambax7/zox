@@ -1,0 +1,6 @@
+------------
+2010/02/18 v1.34
+------------
+I release Zen-Cart of the base with zen-cart-v1.3.8a-full-fileset-12112007.
+I continued developing a Japanese version to this release. 
+It will be the plan that it develops in parallel in future.
